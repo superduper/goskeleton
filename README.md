@@ -1,0 +1,4 @@
+goskelet
+========
+
+go poject skeleton
